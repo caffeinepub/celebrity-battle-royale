@@ -43,13 +43,13 @@ export function Navbar() {
               className="font-display text-xl"
               style={{ color: "oklch(0.78 0.15 70)" }}
             >
-              GLOBAL
+              HEROIC
             </div>
             <div
               className="font-display text-xs tracking-[0.25em]"
               style={{ color: "oklch(0.70 0.01 265)" }}
             >
-              LEGENDS
+              WAR
             </div>
           </div>
         </Link>
